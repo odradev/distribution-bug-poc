@@ -627,6 +627,7 @@ name = "distribution-test"
 version = "0.1.0"
 dependencies = [
  "casper-engine-test-support",
+ "casper-storage",
  "casper-types",
 ]
 
